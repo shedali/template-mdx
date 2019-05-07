@@ -6,5 +6,5 @@
       "use": "@now/static-build"
     }
   ],
-  "alias": "presentation"
+  "alias": "shedali-presentation"
 }
